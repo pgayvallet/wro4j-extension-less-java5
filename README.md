@@ -1,7 +1,7 @@
 wro4j-extension-less-java5
 ==========================
 
-wro4j-extensions module, forked from the original wro4j-extensions project (version 1.4.9 - last java5 compliant version) to compile on java 5 (yes, sometimes we're stuck with it...)
+wro4j-extensions module, forked from the original wro4j-extensions module of the great [WRO4J](https://github.com/alexo/wro4j) project (version 1.4.9 - last java5 compliant version) to compile on java 5 (yes, sometimes we're stuck with it...)
 All the java-6 restrictive modules have been removed, and the code adapted to compile on JDK5.
 
 ### So, What remains ? 
