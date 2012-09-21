@@ -8,9 +8,9 @@
     	<version>1.4.9</version>
 	</parent>
 
-	<artifactId>wro4j-extension-less</artifactId>
+	<artifactId>wro4j-extensions-java5</artifactId>
 	<packaging>jar</packaging>
-	<name>wro4j extensions</name>
+	<name>wro4j extensions for java 5</name>
 
 	<dependencies>
 		<dependency>
